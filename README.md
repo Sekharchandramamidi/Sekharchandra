@@ -1,6 +1,6 @@
 # Sekharchandra
 Hello !! Hi There
-This central repository
+This is a central repository
 Linux based system
 Redhat enterprise linux
 Redhat certified system administore 
